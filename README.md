@@ -1,0 +1,81 @@
+# Genshin Account Details
+
+## Character
+- 22 5* Character
+    - C0 Kinich
+    - C0 Zhongli
+    - C0 Kazuha
+    - C0 Jean
+    - C0 Raiden Shogun
+    - C0 Tartaglia
+    - C0 Kokomi
+    - C0 Mona
+    - C0 Albedo
+    - C0 Ayaka
+    - C0 Furina
+    - C0 Arlecchino
+    - C0 Keqing
+    - C0 Venti
+    - C0 Aloy
+    - C1 Hu Tao
+    - C1 Neuvillete
+    - C1 Yelan
+    - C1 Tighnari
+    - C1 Dehya
+    - C2 Diluc
+    - C3 Qiqi
+- 39 4* Character
+    - C0 Kachina
+    - C1 Candace
+    - C1 Lynette
+    - C1 Chongyun
+    - C1 Lisa
+    - C1 Sayu
+    - C2 Kuki Shinobu
+    - C2 Sethos
+    - C2 Gaming
+    - C2 Kaeya
+    - C2 Amber
+    - C2 Yaoyao
+    - C2 Gorou
+    - C2 Dori
+    - C2 Heizou
+    - C3 Faruzan
+    - C3 Charlotte
+    - C3 Freminet
+    - C3 Collei
+    - C3 Fischl
+    - C3 Kirara
+    - C3 Diona
+    - C4 Razor
+    - C5 Noelle
+    - C5 Xinyan
+    - C6 Bennet
+    - C6 Xiangling
+    - C6 Kujou Sara
+    - C6 Xingqiu
+    - C6 Chevruse
+    - C6 Yun Jin
+    - C6 Sucrose
+    - C6 Layla
+    - C6 Ningguang
+    - C6 Thoma
+    - C6 Yanfei
+    - C6 Beidou
+    - C6 Barbara
+
+- Build Character 
+    - 22 Character Level 90
+    - 13 Character Level 80
+    - 6 Character Level 70
+    - 5 Character Level 60
+    - 6 Character Level 50
+    - 3 Character Level 40
+    - 7 Character Level 20
+- Outfit Character 
+    - Kirara
+    - Xingqiu
+    - Kaeya
+    - Lisa
+    - Fischl
+    - Ningguang
